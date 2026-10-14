@@ -1,8 +1,5 @@
 This is a script of a Discord bot that can create a voice channel for someone and delete it when no longer in use.
 
-If you only want to have the bot on your server, you can use the link below to invite my bot that runs on a server 24/7. 
-https://discord.com/api/oauth2/authorize?client_id=1148310916438442055&permissions=16777232&scope=bot
-
 The bot only needs permissions to manage channels and move members do not give it more permissions than it needs and DO NOT make it an administrator.
 
 How it works:
